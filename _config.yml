@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://leodevrs.github.io
+title: leodevrs
+tagline: Codar é bom
+description: "Busquem conhecimento" Billu
+paginate: 3
