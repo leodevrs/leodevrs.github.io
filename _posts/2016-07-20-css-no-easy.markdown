@@ -1,10 +1,7 @@
 ---
 published: true
-title: CSS Não é fácil
+title: Very easy CSS
 layout: post
-tags: [CSS]
-categories: [CSS]
-permalink: css-nao-e-facil
 ---
 Bom dia pessoal, 
 para muitas pessoas na área de desenvolvimento web, trabalhar com CSS é algo trivial, o processo é simples, abre o editor de código favorito e começa a escrever linhas e linhas de CSS  porém temos que ter o Maior cuidado  em escrever CSS pois essa parte de estilo é algo super importante para qualquer projeto na web hoje.
